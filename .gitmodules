@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "crossrepotest"]
 	path = crossrepotest
-	url = https://github.com/markbravington/crossrepotest.git
+	url = https://github.com/markbravington/crossrepotest
