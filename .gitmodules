@@ -7,4 +7,4 @@
 	url = https://github.com/markbravington/crossrepotest
 [submodule "kinference"]
 	path = kinference
-	url = https://github.com/closekin/kinference
+	url = https://github.com/closekin/kinference/kinference
