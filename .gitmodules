@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/closekin/closekin.r-universe.dev
 	branch = HEAD
+[submodule "crossrepotest"]
+	path = crossrepotest
+	url = https://github.com/closekin/crossrepotest
 [submodule "kinference"]
 	path = kinference
 	url = https://github.com/closekin/kinference
+[submodule "sibgrouper"]
+	path = sibgrouper
+	url = https://github.com/closekin/sibgrouper
